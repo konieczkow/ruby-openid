@@ -4,7 +4,7 @@ require "ruby-openid/version"
 
 Gem::Specification.new do |s|
   s.name        = "ruby-openid"
-  s.version     = Ruby::Openid::1.1.4
+  s.version     = Ruby::Openid::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Maciej Gajewski"]
   s.email       = ["gajewski.mm@gmail.com"]
