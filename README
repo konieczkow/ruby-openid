@@ -1,3 +1,7 @@
+h1. *This is not the official repository. If you are looking for a new version of ruby-openid go to: https://github.com/openid/ruby-openid
+Version available here works with Rails 2.3, but it is already well overdue.*
+
+
 =Ruby OpenID
 
 A Ruby library for verifying and serving OpenID identities.
